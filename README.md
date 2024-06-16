@@ -1,4 +1,4 @@
-import re
+import re 
 
 # Define a dictionary of rules
 rules = {
